@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-const apiKey = "AIzaSyC2ifm7vmnY48NFyb-7TCpidC4pOsq9K3k";
+
 
 class AiChat extends StatefulWidget {
   const AiChat({super.key});
